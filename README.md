@@ -1,4 +1,4 @@
-# DevOps Platform in Dev-Ops ecosystem
+# DevOps Delivery Platform in Dev-Ops ecosystem
 ![Animation](/docs/DevOpsEcosystem4.gif)
 
 # DevOps Platform Team's Operation
