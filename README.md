@@ -9,5 +9,5 @@
 # DevOps Platform development workflow/lifecycle
 Dev Sandbox > Dev Integration > Project/Release Testing > Production > Production Support
 
-# Sandboxes (jenkins, nexus, sonarqube)
+# Sandboxes 
 *  on K8/minikube 
