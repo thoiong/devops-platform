@@ -5,9 +5,4 @@
 * BAU maintaince & support
 * Projects enabling/onboarding (eg: scrum sprint's works)
 * Platform continuous improvement works
-
-# DevOps Delivery Platform development workflow/lifecycle
-Dev Sandbox > Dev Integration > Project/Release Testing > Production 
-
-# DevOps Delivery Platform Sandboxes 
-*  on K8/minikube 
+ 
