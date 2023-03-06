@@ -1,5 +1,5 @@
 # DevOps Delivery Platform in Dev-Ops ecosystem
-![Animation](/docs/DevOpsEcosystem4.gif)
+![Animation](/docs/DevOpsEcosystem.gif)
 
 # DevOps Delivery Platform Team's Operation
 * BAU maintaince & support
