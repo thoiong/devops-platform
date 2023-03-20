@@ -1,8 +1,19 @@
 # Dev-Ops ecosystem
 ![Animation](/docs/DevOpsEcosystem.gif)
 
-# Forming end-to-end process automation from the ground up
-4 key tasks: 
+# Common patterns
+Everything seems to be reducible to end-to-end process automation
+* applications - build, deployment, test, release, CICD = build + deployment + test + release, ...
+* environments/infrastructure - provision, configure, re-baseline, healthcheck, monitor, ....
+* system operational tasks - services stop/start/restart/monitor, data import/export/extract,....
+* ....
+
+## Challenge
+Automate end to end processes 
+## Goals:
+Improve velocity, repeatability, efficiency, and resiliency of the end to end processes
+## Conceptual solution
+4 key tasks for forming an end-to-end process automation from the ground up: 
 * setting up system automation foundation
 * automating tasks that were part of the end-to-end process
 * orchestrating overall process, and 
