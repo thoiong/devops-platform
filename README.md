@@ -1,5 +1,5 @@
 # Dev-Ops ecosystem
-![Animated Dev-Ops ecosystem](/docs/DevOpsEcosystem.wmv)
+![Animated Dev-Ops ecosystem](/docs/DevOpsEcosystem.gif)
 
 # Common patterns
 Everything seems to be reducible to end-to-end process automation
