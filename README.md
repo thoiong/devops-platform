@@ -28,4 +28,4 @@ Overall process orchestration connects the tasks of an end-to-end process into a
 ## Implementation Approach
 1. Mastering current practice of the end-to-end process to be automated, understanding existing system automation foundation, and boundary conditions (e.g. IT security policies/compliances), etc. This usually involves working with the stakeholders, domain experts, reading system's design & operational documentations. 
 2. Deriving/designing a high level process flow mapping and implementation strategy to guide continuous process improvement or iteratively incremental implementation 
-3. start implementing tasks, iteratively releasing/introducing the MVP to the stackholders/users 
+3. start implementing tasks, iteratively releasing/introducing the MVP to the stakeholders/users 
