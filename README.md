@@ -1,4 +1,4 @@
-# Dev-Ops ecosystem
+# Dev-Ops ecosystem / Automatic Delivery Platform
 ![Animated Dev-Ops ecosystem](/docs/DevOpsEcosystem.gif)
 
 # Common patterns
